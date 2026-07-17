@@ -26,6 +26,7 @@ public class inheritance4
 		// TODO Auto-generated method stub
 		Demo6 d2 = new Demo6();
 		
+		
 
 	}
 

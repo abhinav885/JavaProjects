@@ -34,14 +34,18 @@ public class student1
 		System.out.println(s.name);
 		System.out.println(s.age);
 		System.out.println(s.rollNo);
+		System.out.println();
 		
 		student2.college = "IIT KHARAGPUR";
 		System.out.println(student2.college);
+		System.out.println();
 		
 		student2.college = "IIT GUWAHATI";
 		System.out.println(s1.name);
 		System.out.println(s1.age);
 		System.out.println(s1.rollNo);
+		System.out.println();
+		
 		System.out.println(student2.college);
 		System.out.println(student2.grade);
 		System.out.println(student2.PI);
